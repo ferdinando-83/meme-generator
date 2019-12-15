@@ -1,4 +1,4 @@
-##Read Me
+## Read Me
 
 #### This project was influenced by freeCodeCamp.org's [Learn ReactJS](https://www.youtube.com/watch?v=DLX62G4lc44)
 
